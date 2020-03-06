@@ -15,21 +15,21 @@ I am a senior from Chicago, Illinois studying at the University of Iowa majoring
 
 **Project Title**
 
-Hello World
+*Hello World*
 
 **Project Description**
 
-GitHub practice for class
+*GitHub practice for class*
 
 **Files Used**
-- List File Names
-- Where you got them
-- What is contained in the file
-- Datafile consideration
+- *List File Names*
+- *Where you got them*
+- *What is contained in the file*
+- *Datafile consideration*
 
 **Additional Documents**
 
-No additional documents used for this repository
+*No additional documents used for this repository*
 
 **Versioning**
-Dicuss any versioning used during the process
+*Dicuss any versioning used during the process*
