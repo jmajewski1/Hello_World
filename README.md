@@ -10,20 +10,23 @@ I am a senior from Chicago, Illinois studying at the University of Iowa majoring
  2. [Project Description](#Project-Description)
  3. [Files Used](#Files-Used)
  4. [Additional Documents](#Additional-Documents) 
+ 5. [Versioning](#Versioning)
 
 
-1. Project Title
+**Project Title**
 
 Hello World
 
-2. Project Description
+**Project Description**
 
 GitHub practice for class
 
-3. Files Used
+**Files Used**
+-List File Names
+-Where you got them
+-What is contained in the file
+-Datafile consideration
 
-No extra files used 
-
-4. Additional Documents
+**Additional Documents**
 
 No additional documents used for this repository
