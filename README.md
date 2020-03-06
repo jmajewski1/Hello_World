@@ -6,10 +6,10 @@ I am a senior from Chicago, Illinois studying at the University of Iowa majoring
 
 
 ## Table of Contents 
- [Project Title]
- [Project Description]
- [Files Used]
- [Additional Documents] 
+ 1. [Project Title](#Project-Title)
+ 2. [Project Description](#Project-Description)
+ 3. [Files Used](#Files-Used)
+ 4. [Additional Documents](#Additional-Documents) 
 
 
 1. Project Title
