@@ -12,13 +12,17 @@ I am a senior from Chicago, Illinois studying at the University of Iowa majoring
 5. Additional Documents 
 
 Project Title
+
 Hello World
 
 Project Description
+
 GitHub practice for class
 
 Files Used
+
 No extra files used 
 
 Additional Documents
+
 No additional documents used for this repository
