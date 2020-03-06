@@ -11,18 +11,18 @@ I am a senior from Chicago, Illinois studying at the University of Iowa majoring
 4. Files Used
 5. Additional Documents 
 
-Project Title
+1. Project Title
 
 Hello World
 
-Project Description
+2. Project Description
 
 GitHub practice for class
 
-Files Used
+3. Files Used
 
 No extra files used 
 
-Additional Documents
+4. Additional Documents
 
 No additional documents used for this repository
